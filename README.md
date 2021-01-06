@@ -27,8 +27,11 @@ To do list for this week:
 
 [README infite loop :)](README.md)
 
-
-
+**Woah this is bold**  
+*Italics who?*  
+~~why am i crossed out???~~  
+**I love _emphasis_**  
+***Woah bold and italics!?!?***  
 
 ## Surprise
 Get pranked!!
