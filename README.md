@@ -19,9 +19,11 @@ Get pranked!!
 Here is a list of my favorite classes. (Wink)
 - CSE 110
 - CSE 100
+  - Shoutout to Prof Niema
+
 
 To do list for this week:
- [x]  Lab 1 for CSE 110
+- [x]  Lab 1 for CSE 110
 - [ ]  Wake up early
 - [ ]  Sleep before 3 AM
 
