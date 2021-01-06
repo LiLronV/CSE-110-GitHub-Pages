@@ -21,7 +21,7 @@ Here is a list of my favorite classes. (Wink)
 - CSE 100
 
 To do list for this week:
-- [x]  Lab 1 for CSE 110
+ [x]  Lab 1 for CSE 110
 - [ ]  Wake up early
 - [ ]  Sleep before 3 AM
 
