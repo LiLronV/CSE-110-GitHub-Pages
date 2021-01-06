@@ -1,7 +1,7 @@
 # Ronak Vyas
 ## Current Sophomore at UCSD
-Here is a [link to my personal website!](http://ronakvyas.tk)
-I am passionate about Cyber Security and Software Engineering
+Here is a [link to my personal website!](http://ronakvyas.tk)  
+I am passionate about Cyber Security and Software Engineering  
 Kobe Bryant once said:
 > The most important thing is to try and inspire people so that they can be great at whatever they want to do
 
