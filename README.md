@@ -13,8 +13,6 @@ Ronak probably uses `clear` on his terminal more times than he should.
 [Click here for a surprise](#surprise)
 ![Concert Uzi](https://s.abcnews.com/images/US/lil-uzi-gty-er-190825_hpMain_4x3_992.jpg)
 
-## Surprise
-Get pranked!!
 
 Here is a list of my favorite classes. (Wink)
 - CSE 110
@@ -28,3 +26,9 @@ To do list for this week:
 - [ ]  Sleep before 3 AM
 
 [README infite loop :)](README.md)
+
+
+
+
+## Surprise
+Get pranked!!
